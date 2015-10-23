@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="">
+<meta name="author" content="">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Small Business - Start Bootstrap Template</title>
+<!-- TemplateEndEditable -->
+<!-- Bootstrap Core CSS -->
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+
+<!-- Custom CSS -->
+<!-- TemplateBeginEditable name="CSS" -->
+<!-- copy Google font URL's here -->
+<style>
+body, h1, h2, h3, h4, h5, p, ul, li, table, select, input, label {
+	font-family: Tahoma;
+}
+h1 {
+	font-size: 39px;
+	margin: 0 0 2% 0;
+}
+h2 {
+	font-size: 25px;
+	margin: 0 0 2% 0;
+}
+h3 {
+	color: #337ab7;
+	font-size: 19px;
+	margin: 0 0 2% 0;
+}
+p {
+	color: #171717;
+	font-size: 14px;
+	line-height: 20px;
+}
+footer p {
+	color: white;
+}
+.header h1 {
+	font-size: 39px;
+	color: #ffffff;
+	vertical-align: middle;
+}
+.center-table {
+	display: table-cell;
+	vertical-align: middle;
+}
+footer {
+	margin-top: 50px;
+	margin-right: 0;
+	margin-left: 0;
+	background-color: black;
+	color: white;
+}
+.logo {
+	margin: 5px;
+}
+body {
+	padding-top: 10px;
+}
+footer {
+	padding: 2%;
+	margin-bottom: 20px;
+}
+.header {
+	background: url('http://placehold.it/1140x350') center center no-repeat scroll;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+	min-height: 250px;
+}
+.row, .well, .pad {
+	padding: 2%;
+}
+.no-pad {
+	padding: 0 !important;
+}
+address {
+	font-size:13px;
+	text-align:right;
+}
+
+@media(min-width:768px) {
+body {
+	padding-top: 30px;
+}
+}
+</style>
+<!-- TemplateEndEditable -->
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+
+<!-- Page Content -->
+<div class="container">
+  <div class="row">
+    <div class="col-sm-3 no-pad"><!-- TemplateBeginEditable name="logo" --><img src="http://placehold.it/200x100/?text=logo" /><!-- TemplateEndEditable --></div>
+    <div class="col-sm-6"></div>
+    <div class="col-sm-3">
+      <address>
+      <!-- TemplateBeginEditable name="contact info" --><strong>Global MegaCorp</strong> <br>
+666 Soul Eater Blvd <br>
+Beverly Hills, CA 90210 <br>
+<abbr title="Phone"></abbr>(123) 456-7890 <br>
+<abbr title="Email"></abbr> <a href="mailto:#">name@example.com</a><!-- TemplateEndEditable -->
+      </address>
+    </div>
+  </div>
+  
+  <!-- Heading Row -->
+  
+  <div  class="row">
+    <div  class="header">
+      <div class="col-md-8 pad"> <!-- TemplateBeginEditable name="Hero Headline" -->
+        <h1>Business Name or Tagline</h1>
+        <!-- TemplateEndEditable --> </div>
+      <div class="col-md-4 pad"> <!-- TemplateBeginEditable name="Hero Text" -->
+        <p>This is a template that is great for small businesses. It doesn't have too much fancy flare to it, but it makes a great use of the standard Bootstrap core components. Feel free to use this template for any project you want!</p>
+        <!-- TemplateEndEditable -->
+        <p style="text-align:left;"><!-- TemplateBeginEditable name="Button" --><a class="btn btn-primary btn-lg" href="#">Call to Action!</a><!-- TemplateEndEditable --></p>
+      </div>
+    </div>
+  </div>
+  
+  <!-- /.row --> 
+  
+  <!-- Call to Action Well -->
+  <div class="row">
+    <div class="col-lg-12 no-pad">
+      <div class="well text-center"><!-- TemplateBeginEditable name="Well Text Area" -->
+        <h2> This is a well that is a great spot for a business tagline or phone number for easy access!</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales, purus consectetur elementum rutrum, lectus magna imperdiet velit, vel luctus sapien augue quis nunc. Sed sit amet semper elit. Praesent ut aliquam mi, sed ultrices velit. Maecenas aliquam ex id tellus fringilla, a convallis turpis condimentum.</p>
+        <!-- TemplateEndEditable --></div>
+    </div>
+    <!-- /.col-lg-12 --> 
+  </div>
+  <!-- /.row --> 
+  
+  <!-- Content Row -->
+  <div class="row">
+    <div class="col-md-4"><!-- TemplateBeginEditable name="Funnel Area 1" -->
+      <h2>Heading 1</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe rem nisi accusamus error velit animi non ipsa placeat. Recusandae, suscipit, soluta quibusdam accusamus a veniam quaerat eveniet eligendi dolor consectetur.</p>
+      <a class="btn btn-default" href="#">More Info</a><!-- TemplateEndEditable --></div>
+    <!-- /.col-md-4 -->
+    <div class="col-md-4"><!-- TemplateBeginEditable name="Funnel Area 2" -->
+      <h2>Heading 2</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe rem nisi accusamus error velit animi non ipsa placeat. Recusandae, suscipit, soluta quibusdam accusamus a veniam quaerat eveniet eligendi dolor consectetur.</p>
+      <a class="btn btn-default" href="#">More Info</a><!-- TemplateEndEditable --></div>
+    <!-- /.col-md-4 -->
+    <div class="col-md-4"><!-- TemplateBeginEditable name="Funnel Area 3" -->
+      <h2>Heading 3</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe rem nisi accusamus error velit animi non ipsa placeat. Recusandae, suscipit, soluta quibusdam accusamus a veniam quaerat eveniet eligendi dolor consectetur.</p>
+      <a class="btn btn-default" href="#">More Info</a><!-- TemplateEndEditable --></div>
+    <!-- /.col-md-4 --> 
+  </div>
+  <!-- /.row --> 
+  
+  <!-- Footer -->
+  <footer>
+    <div class="row">
+      <div class="col-lg-12 no-pad"><!-- TemplateBeginEditable name="Footer" -->
+        <p>Copyright &copy; Your Website 2015</p>
+        <!-- TemplateEndEditable --></div>
+    </div>
+  </footer>
+</div>
+<!-- /.container --> 
+<!-- TemplateBeginEditable name="jQuery" -->jQuery 
+<!-- jQuery --MUST BE COMMENTED OUT OR REMOVED IF USING THIS TEMPLATE IN ACT ON--> 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"> </script> 
+
+<!-- Bootstrap Core JavaScript -MUST BE COMMENTED OUT OR REMOVED IF USING THIS TEMPLATE IN ACT ON --> 
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha256-Sk3nkD6mLTMOF0EOpNtsIry+s1CsaqQC1rVLTAy+0yc= sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script> 
+<!-- TemplateEndEditable -->
+</body>
+</html>
